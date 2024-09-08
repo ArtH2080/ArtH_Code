@@ -32,6 +32,8 @@ Este projeto é uma aplicação web simples, mas eficiente, que permite pesquisa
 
 Um agradecimento especial à Alura e ao Google por fornecer as ferramentas e o conhecimento necessários para completar esta imersão. Foi uma experiência incrível e enriquecedora!
 
+Acesse meu projeto diretamente pelo link: https://arth-imersao.vercel.app/
+
 ---
 
 Obrigado por visitar o repositório do **Atletas do Brasil**. Espero que você se divirta explorando o projeto tanto quanto eu me diverti desenvolvendo-o!
